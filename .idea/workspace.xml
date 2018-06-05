@@ -16,11 +16,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.49848023">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1290">
-                  <caret line="85" column="40" lean-forward="true" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+                <state relative-caret-position="580">
+                  <caret line="97" selection-start-line="97" selection-end-line="97" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -37,10 +37,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styleSettings.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="styleSettings.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/helpers/styleSettings.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="277">
+                <state relative-caret-position="405">
                   <caret line="27" selection-start-line="27" selection-end-line="27" />
                   <folding>
                     <element signature="e#0#33#0" expanded="true" />
@@ -83,8 +83,8 @@
           <file leaf-file-name="Hero.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/Home/Hero.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="722">
-                  <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+                <state relative-caret-position="166">
+                  <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                     <element signature="e#53#79#0" expanded="true" />
@@ -146,10 +146,10 @@
         <option value="$PROJECT_DIR$/src/layouts/index.js" />
         <option value="$PROJECT_DIR$/gatsby-config.js" />
         <option value="$PROJECT_DIR$/data/site-config.js" />
-        <option value="$PROJECT_DIR$/src/pages/index.js" />
         <option value="$PROJECT_DIR$/src/components/SiteHeader/SiteHeader.js" />
         <option value="$PROJECT_DIR$/src/helpers/styleSettings.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Hero.js" />
+        <option value="$PROJECT_DIR$/src/pages/index.js" />
       </list>
     </option>
   </component>
@@ -356,7 +356,7 @@
       <workItem from="1527898440185" duration="2079000" />
       <workItem from="1527916716919" duration="8997000" />
       <workItem from="1528014371857" duration="20112000" />
-      <workItem from="1528130903470" duration="10311000" />
+      <workItem from="1528130903470" duration="10700000" />
     </task>
     <task id="LOCAL-00001" summary="added missing art assets">
       <created>1527917979564</created>
@@ -369,17 +369,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41499000" />
+    <option name="totallyTimeSpent" value="41888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="1667" height="1022" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50060827" side_tool="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49939173" visible="true" weight="0.52672607" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49939173" visible="true" weight="0.20489977" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12826748" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -648,16 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="85" column="40" lean-forward="true" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/emotion/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -674,7 +665,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/styleSettings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="405">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
@@ -689,10 +680,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/Hero.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        <state relative-caret-position="166">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#53#79#0" expanded="true" />
